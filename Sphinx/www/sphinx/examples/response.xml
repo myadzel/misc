@@ -1,0 +1,19 @@
+<response>
+	<query>тестируем</query>
+	<result index="works" time="0.000">
+		<meta count="1" page="1" pages="1" pagesize="100"/>
+		<matches>
+			<match position="1">
+				<id>189</id>
+				<weight>1727</weight>
+				<title><![CDATA[Сайт компании «Теремок»]]></title>
+				<description><![CDATA[... фармацевтические препараты известных мировых производителей. На титульной странице представлена электрокардиограмма, непрерывно <em>тестирующая</em> уровни таких показателей работы компании, как точность, компетентность, динамичность, ...]]></description>
+				<created>2002-10-25 00:00:00</created>
+			</match>
+			<keys>189</keys>
+		</matches>
+		<words>
+			<word docs="1" hits="1">тестир</word>
+		</words>
+	</result>
+</response>
